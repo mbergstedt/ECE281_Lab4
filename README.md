@@ -37,8 +37,8 @@ the accumulator value changed as it should.  The testbench screenshots for this 
 they did not display the accumulator.
 
 ##Lab Functionality
---ALU Simulation
---Datapath Simulation Demo
+-ALU Simulation
+-Datapath Simulation Demo
 
 ####Reverse Engineering
 Simulation Analysis: The analysis of the 50 ns to 100 ns time is below.
